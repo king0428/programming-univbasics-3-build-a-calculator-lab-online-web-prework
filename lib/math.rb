@@ -49,7 +49,7 @@ describe "#modulo" do
 end
 
 def square_root(num)
-((num))
+  integer.
 end
 
 describe "#square_root" do
